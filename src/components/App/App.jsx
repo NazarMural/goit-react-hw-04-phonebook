@@ -53,7 +53,6 @@ class App extends Component {
 
   render() {
     const { contacts, filter } = this.state;
-    console.log(contacts);
 
     return (
       <Container>
